@@ -1,3 +1,14 @@
+备注
+
+fork过来，防止版本出现不向上兼容时，
+
+vps用skymysef的脚本安装这个版本，
+
+其他用户不需做任何更改也能继续使用。
+
+注意要到tag里relesses一个版本出来，不然脚本找不到路径
+
+
 # Project X
 
 [Project X](https://github.com/XTLS) originates from XTLS protocol, provides a set of network tools such as [Xray-core](https://github.com/XTLS/Xray-core).
